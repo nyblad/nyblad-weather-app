@@ -1,7 +1,7 @@
 ## Project 6 - Build a Weather Web App
 
-Project week 6 @ Technigo Bootcamp was to build a simple weather web app that shows today's weather and temperature and a forecast using a weather API.
-
+Project week 6 @ Technigo Bootcamp was to build a simple weather web app that shows today's weather and temperature and a forecast using a weather API.<br>
+https://nyblad-project-6.netlify.com/
 
 ## Learning objectivs
 
